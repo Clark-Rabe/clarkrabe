@@ -1,6 +1,6 @@
 # Clark Rabe
 
-> Make the most of your life because you only get one
+> Make the most of your life because you only get one chance
 
 ## Major
 Studied Computer Science at Eastern Washington University
